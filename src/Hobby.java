@@ -1,0 +1,3 @@
+public enum Hobby {
+    RAED_BOOK,PLAY_TENNIS,PLAY_CHESS,FITNESS
+}
